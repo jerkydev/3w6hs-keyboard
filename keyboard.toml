@@ -1,9 +1,9 @@
 [keyboard]
-name = "3w6hs-keyboard"
-product_name = "3w6hs-keyboard"
-vendor_id = 0x4c4b
-product_id = 0x4643
-manufacturer = "haobo"
+name = "keyboard-3w6hs"
+product_name = "keyboard-3w6hs"
+vendor_id = 0xBEEB
+product_id = 0x0003
+manufacturer = "beekeeb"
 chip = "rp2040"
 
 # [matrix]

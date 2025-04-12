@@ -1,13 +1,8 @@
 [package]
-name = "3w6hs-keyboard"
-version = "0.2.0"
-authors = ["Haobo Gu <haobogu@outlook.com>"]
+name = "keyboard-3w6hs"
+version = "0.1.0"
 description = "Keyboard firmware written in Rust"
-homepage = "https://github.com/haobogu/rmk"
-repository = "https://github.com/haobogu/rmk"
-readme = "../../README.md"
 edition = "2021"
-license = "MIT OR Apache-2.0"
 
 [dependencies]
 rmk = { version = "0.6", features = ["split", "rp2040_bl"] }

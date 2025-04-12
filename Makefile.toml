@@ -20,7 +20,7 @@ args = [
     "--",
     "-O",
     "ihex",
-    "3w6hs-keyboard-central.hex",
+    "keyboard-3w6hs-central.hex",
 ]
 dependencies = ["install-llvm-tools", "flip-link"]
 
@@ -34,7 +34,7 @@ args = [
     "--",
     "-O",
     "ihex",
-    "3w6hs-keyboard-peripheral.hex",
+    "keyboard-3w6hs-peripheral.hex",
 ]
 dependencies = ["install-llvm-tools", "flip-link"]
 
@@ -47,9 +47,9 @@ command = "cargo"
 args = [
     "hex-to-uf2",
     "--input-path",
-    "3w6hs-keyboard-central.hex",
+    "keyboard-3w6hs-central.hex",
     "--output-path",
-    "3w6hs-keyboard-central.uf2",
+    "keyboard-3w6hs-central.uf2",
     "--family",
     "rp2040",
 ]
@@ -64,9 +64,9 @@ command = "cargo"
 args = [
     "hex-to-uf2",
     "--input-path",
-    "3w6hs-keyboard-peripheral.hex",
+    "keyboard-3w6hs-peripheral.hex",
     "--output-path",
-    "3w6hs-keyboard-peripheral.uf2",
+    "keyboard-3w6hs-peripheral.uf2",
     "--family",
     "rp2040",
 ]

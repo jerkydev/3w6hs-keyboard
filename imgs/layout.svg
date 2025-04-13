@@ -324,36 +324,26 @@ path.combo { stroke: #7f7f7f; }
 <text x="224" y="90" class="combo shifted">{</text>
 </g>
 <g class="combo combopos-5">
-<rect rx="6" ry="6" x="210" y="144" width="28" height="26" class="combo"/>
-<text x="224" y="157" class="combo tap">
-<tspan x="224" dy="-0.6em">Print</tspan><tspan x="224" dy="1.2em">Screen</tspan>
-</text>
-</g>
-<g class="combo combopos-6">
-<rect rx="6" ry="6" x="490" y="32" width="28" height="26" class="combo"/>
-<text x="504" y="45" class="combo tap">/</text>
-</g>
-<g class="combo combopos-7">
 <rect rx="6" ry="6" x="546" y="21" width="28" height="26" class="combo"/>
 <text x="560" y="34" class="combo tap">|</text>
 <text x="560" y="23" class="combo shifted">LSFT+</text>
 </g>
-<g class="combo combopos-8">
+<g class="combo combopos-6">
 <rect rx="6" ry="6" x="602" y="21" width="28" height="26" class="combo"/>
 <text x="616" y="34" class="combo tap">\</text>
 <text x="616" y="23" class="combo shifted">|</text>
 </g>
-<g class="combo combopos-9">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="490" y="88" width="28" height="26" class="combo"/>
 <text x="504" y="101" class="combo tap">]</text>
 <text x="504" y="90" class="combo shifted">}</text>
 </g>
-<g class="combo combopos-10">
+<g class="combo combopos-8">
 <rect rx="6" ry="6" x="546" y="77" width="28" height="26" class="combo"/>
 <text x="560" y="90" class="combo tap">}</text>
 <text x="560" y="79" class="combo shifted">LSFT+</text>
 </g>
-<g class="combo combopos-11">
+<g class="combo combopos-9">
 <rect rx="6" ry="6" x="602" y="77" width="28" height="26" class="combo"/>
 <text x="616" y="90" class="combo tap">0</text>
 <text x="616" y="79" class="combo shifted">)</text>
@@ -627,9 +617,6 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(196, 151)" class="key keypos-23">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">Print</tspan><tspan x="0" dy="1.2em">Screen</tspan>
-</text>
 </g>
 <g transform="translate(252, 162)" class="key keypos-24">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>

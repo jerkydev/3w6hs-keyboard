@@ -318,6 +318,20 @@ path.combo { stroke: #7f7f7f; }
 <text x="364" y="95" class="combo tap"><tspan style="font-size: 88%">MOD_LCTL</tspan></text>
 <text x="364" y="84" class="combo shifted">OSM+</text>
 </g>
+<g class="combo combopos-4">
+<path d="M364,151 l-149,0" class="combo"/>
+<path d="M364,151 l149,0" class="combo"/>
+<rect rx="6" ry="6" x="350" y="138" width="28" height="26" class="combo"/>
+<text x="364" y="151" class="combo tap">MOD_MEH</text>
+<text x="364" y="140" class="combo shifted">OSM+</text>
+</g>
+<g class="combo combopos-5">
+<path d="M364,162 l-93,0" class="combo"/>
+<path d="M364,162 l93,0" class="combo"/>
+<rect rx="6" ry="6" x="350" y="149" width="28" height="26" class="combo"/>
+<text x="364" y="162" class="combo tap"><tspan style="font-size: 88%">MOD_HYPR</tspan></text>
+<text x="364" y="151" class="combo shifted">OSM+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 325)" class="layer-L1">
@@ -432,12 +446,17 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(252, 162)" class="key keypos-24">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">-</text>
+<text x="0" y="-24" class="key shifted">_</text>
 </g>
 <g transform="translate(476, 162)" class="key keypos-25">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap"><tspan style="font-size: 88%">MOD_HYPR</tspan></text>
+<text x="0" y="-24" class="key shifted">OSM+</text>
 </g>
 <g transform="translate(532, 151)" class="key keypos-26">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap">MOD_MEH</text>
+<text x="0" y="-24" class="key shifted">OSM+</text>
 </g>
 <g transform="translate(588, 140)" class="key keypos-27">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -453,10 +472,11 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(263, 230)" class="key keypos-31">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">▽</text>
 </g>
 <g transform="translate(319, 241)" class="key keypos-32">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap">=</text>
+<text x="0" y="-24" class="key shifted">+</text>
 </g>
 <g transform="translate(409, 241)" class="key held keypos-33">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
@@ -524,7 +544,6 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(28, 129)" class="key keypos-10">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F11</text>
 </g>
 <g transform="translate(84, 95)" class="key keypos-11">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -548,67 +567,52 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(476, 106)" class="key keypos-15">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 88%">MOD_LGUI</tspan></text>
-<text x="0" y="-24" class="key shifted">OSM+</text>
 </g>
 <g transform="translate(532, 95)" class="key keypos-16">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 88%">MOD_LSFT</tspan></text>
-<text x="0" y="-24" class="key shifted">OSM+</text>
 </g>
 <g transform="translate(588, 84)" class="key keypos-17">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 88%">MOD_LALT</tspan></text>
-<text x="0" y="-24" class="key shifted">OSM+</text>
 </g>
 <g transform="translate(644, 95)" class="key keypos-18">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 88%">MOD_LCTL</tspan></text>
-<text x="0" y="-24" class="key shifted">OSM+</text>
 </g>
 <g transform="translate(700, 129)" class="key keypos-19">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F12</text>
 </g>
 <g transform="translate(28, 185)" class="key keypos-20">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F1</text>
 </g>
 <g transform="translate(84, 151)" class="key keypos-21">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F2</text>
 </g>
 <g transform="translate(140, 140)" class="key keypos-22">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F3</text>
 </g>
 <g transform="translate(196, 151)" class="key keypos-23">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F4</text>
+<text x="0" y="0" class="key tap">MOD_MEH</text>
+<text x="0" y="-24" class="key shifted">OSM+</text>
 </g>
 <g transform="translate(252, 162)" class="key keypos-24">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F5</text>
+<text x="0" y="0" class="key tap"><tspan style="font-size: 88%">MOD_HYPR</tspan></text>
+<text x="0" y="-24" class="key shifted">OSM+</text>
 </g>
 <g transform="translate(476, 162)" class="key keypos-25">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F6</text>
 </g>
 <g transform="translate(532, 151)" class="key keypos-26">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F7</text>
 </g>
 <g transform="translate(588, 140)" class="key keypos-27">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F8</text>
 </g>
 <g transform="translate(644, 151)" class="key keypos-28">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F9</text>
 </g>
 <g transform="translate(700, 185)" class="key keypos-29">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F10</text>
 </g>
 <g transform="translate(207, 230)" class="key keypos-30">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>

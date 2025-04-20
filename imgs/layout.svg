@@ -292,52 +292,70 @@ path.combo { stroke: #7f7f7f; }
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="210" y="144" width="28" height="26" class="combo"/>
-<text x="224" y="157" class="combo tap">Space</text>
+<rect rx="6" ry="6" x="98" y="21" width="28" height="26" class="combo"/>
+<text x="112" y="34" class="combo tap"><tspan style="font-size: 88%">MOD_LCTL</tspan></text>
+<text x="112" y="23" class="combo shifted">OSM+</text>
 </g>
 <g class="combo combopos-1">
-<path d="M364,106 l-93,0" class="combo"/>
-<path d="M364,106 l93,0" class="combo"/>
-<rect rx="6" ry="6" x="350" y="93" width="28" height="26" class="combo"/>
-<text x="364" y="106" class="combo tap"><tspan style="font-size: 88%">MOD_LGUI</tspan></text>
-<text x="364" y="95" class="combo shifted">OSM+</text>
+<rect rx="6" ry="6" x="154" y="21" width="28" height="26" class="combo"/>
+<text x="168" y="34" class="combo tap"><tspan style="font-size: 88%">MOD_LGUI</tspan></text>
+<text x="168" y="23" class="combo shifted">OSM+</text>
 </g>
 <g class="combo combopos-2">
-<path d="M364,95 l-149,0" class="combo"/>
-<path d="M364,95 l149,0" class="combo"/>
-<rect rx="6" ry="6" x="350" y="82" width="28" height="26" class="combo"/>
-<text x="364" y="95" class="combo tap"><tspan style="font-size: 88%">MOD_LSFT</tspan></text>
-<text x="364" y="84" class="combo shifted">OSM+</text>
+<rect rx="6" ry="6" x="98" y="77" width="28" height="26" class="combo"/>
+<text x="112" y="90" class="combo tap"><tspan style="font-size: 88%">MOD_LALT</tspan></text>
+<text x="112" y="79" class="combo shifted">OSM+</text>
 </g>
 <g class="combo combopos-3">
-<path d="M364,84 l-205,0" class="combo"/>
-<path d="M364,84 l205,0" class="combo"/>
-<rect rx="6" ry="6" x="350" y="71" width="28" height="26" class="combo"/>
-<text x="364" y="84" class="combo tap"><tspan style="font-size: 88%">MOD_LALT</tspan></text>
-<text x="364" y="73" class="combo shifted">OSM+</text>
+<rect rx="6" ry="6" x="154" y="77" width="28" height="26" class="combo"/>
+<text x="168" y="90" class="combo tap"><tspan style="font-size: 88%">MOD_LSFT</tspan></text>
+<text x="168" y="79" class="combo shifted">OSM+</text>
 </g>
 <g class="combo combopos-4">
-<path d="M364,95 l261,0" class="combo"/>
-<path d="M364,95 l-261,0" class="combo"/>
-<rect rx="6" ry="6" x="350" y="82" width="28" height="26" class="combo"/>
-<text x="364" y="95" class="combo tap"><tspan style="font-size: 88%">MOD_LCTL</tspan></text>
-<text x="364" y="84" class="combo shifted">OSM+</text>
+<rect rx="6" ry="6" x="210" y="88" width="28" height="26" class="combo"/>
+<text x="224" y="101" class="combo tap">Space</text>
 </g>
 <g class="combo combopos-5">
-<path d="M364,151 l-149,0" class="combo"/>
-<path d="M364,151 l149,0" class="combo"/>
-<rect rx="6" ry="6" x="350" y="138" width="28" height="26" class="combo"/>
-<text x="364" y="151" class="combo tap">MOD_MEH</text>
-<text x="364" y="140" class="combo shifted">OSM+</text>
+<rect rx="6" ry="6" x="154" y="133" width="28" height="26" class="combo"/>
+<text x="168" y="146" class="combo tap">MOD_MEH</text>
+<text x="168" y="135" class="combo shifted">OSM+</text>
 </g>
 <g class="combo combopos-6">
-<path d="M364,162 l-93,0" class="combo"/>
-<path d="M364,162 l93,0" class="combo"/>
-<rect rx="6" ry="6" x="350" y="149" width="28" height="26" class="combo"/>
-<text x="364" y="162" class="combo tap"><tspan style="font-size: 88%">MOD_HYPR</tspan></text>
-<text x="364" y="151" class="combo shifted">OSM+</text>
+<rect rx="6" ry="6" x="210" y="144" width="28" height="26" class="combo"/>
+<text x="224" y="157" class="combo tap"><tspan style="font-size: 88%">MOD_HYPR</tspan></text>
+<text x="224" y="146" class="combo shifted">OSM+</text>
 </g>
 <g class="combo combopos-7">
+<rect rx="6" ry="6" x="546" y="21" width="28" height="26" class="combo"/>
+<text x="560" y="34" class="combo tap"><tspan style="font-size: 88%">MOD_LGUI</tspan></text>
+<text x="560" y="23" class="combo shifted">OSM+</text>
+</g>
+<g class="combo combopos-8">
+<rect rx="6" ry="6" x="602" y="21" width="28" height="26" class="combo"/>
+<text x="616" y="34" class="combo tap"><tspan style="font-size: 88%">MOD_LCTL</tspan></text>
+<text x="616" y="23" class="combo shifted">OSM+</text>
+</g>
+<g class="combo combopos-9">
+<rect rx="6" ry="6" x="546" y="77" width="28" height="26" class="combo"/>
+<text x="560" y="90" class="combo tap"><tspan style="font-size: 88%">MOD_LSFT</tspan></text>
+<text x="560" y="79" class="combo shifted">OSM+</text>
+</g>
+<g class="combo combopos-10">
+<rect rx="6" ry="6" x="602" y="77" width="28" height="26" class="combo"/>
+<text x="616" y="90" class="combo tap"><tspan style="font-size: 88%">MOD_LALT</tspan></text>
+<text x="616" y="79" class="combo shifted">OSM+</text>
+</g>
+<g class="combo combopos-11">
+<rect rx="6" ry="6" x="490" y="144" width="28" height="26" class="combo"/>
+<text x="504" y="157" class="combo tap"><tspan style="font-size: 88%">MOD_HYPR</tspan></text>
+<text x="504" y="146" class="combo shifted">OSM+</text>
+</g>
+<g class="combo combopos-12">
+<rect rx="6" ry="6" x="546" y="133" width="28" height="26" class="combo"/>
+<text x="560" y="146" class="combo tap">MOD_MEH</text>
+<text x="560" y="135" class="combo shifted">OSM+</text>
+</g>
+<g class="combo combopos-13">
 <rect rx="6" ry="6" x="350" y="228" width="28" height="26" class="combo"/>
 <text x="364" y="241" class="combo tap">
 <tspan x="364" dy="-0.6em">MO</tspan><tspan x="364" dy="1.2em">L4</tspan>
